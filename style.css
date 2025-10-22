@@ -36,6 +36,7 @@ body {
     padding-right: 25px;
     gap: 20px;
     height: 300px;
+    position: relative;
 }
 
 .comment2 {
@@ -159,6 +160,6 @@ body {
     height: 102px;
     opacity: 60%;
     position: absolute;
-    left: 530px;
-    top: 105px;
+    left: 356px;
+    top: 0;
 }
